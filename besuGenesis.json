@@ -1,8 +1,7 @@
 {
     "config": {
       "chainId": 9599,
-      "shanghaiBlock": 0
-
+      "cancunTime": 0
     },
     "alloc": {
       "0x1c7cd2d37ffd63856a5bd56a9af1643f2bcf545f": {
@@ -44,5 +43,5 @@
     "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "timestamp": "0x00",
-    "baseFeePerGas":"0x7"
+    "baseFeePerGas": "0x0"
 }
